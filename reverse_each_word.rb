@@ -1,6 +1,6 @@
 test_string = "This is my test string for this lab." 
 
-def reverse_each_word(test_string)
+def reverse_each_word(sentence)
   puts test_string.reverse
 end
 
