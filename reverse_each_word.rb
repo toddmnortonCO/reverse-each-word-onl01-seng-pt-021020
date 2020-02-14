@@ -4,4 +4,4 @@ def reverse_each_word(test_string)
   puts test_string.reverse
 end
 
-puts reverse_each_word
+puts reverse_each_word(test_string)
